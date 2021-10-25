@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597475558012",
+    "project_id": "pet-era",
+    "storage_bucket": "pet-era.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597475558012:android:a92d26db77cd5459eafff9",
+        "android_client_info": {
+          "package_name": "com.example.bowl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597475558012-l41ap1q39el38b7adiebkdpgis7v0igt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxJZdltOpdVcJfCzkBxlkDEgTx_3IB_Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597475558012-l41ap1q39el38b7adiebkdpgis7v0igt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
